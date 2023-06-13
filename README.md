@@ -16,6 +16,7 @@ En résumé, notre site web est une ressource précieuse pour les étudiants qui
 
 
 Vous pouvez visualiser le site grâce au lien ci-dessous
+Attention non adapter au téléphone mobile
 https://dycon.fr/cindex.php
 
 N'hésitez pas à me contacter si vous souhaitez voir le code source du site
